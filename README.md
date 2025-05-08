@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, data visualization, and machine learning.
 - 💞️ I’m looking to collaborate on data science projects, specifically in sports, and any business-related analytics initiatives.
 - 📫 How to reach me: You can reach me via amani.wanna@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about sports, cooking, and gaming!
 
 <!---
